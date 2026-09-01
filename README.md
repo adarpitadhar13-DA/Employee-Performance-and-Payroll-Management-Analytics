@@ -2,7 +2,7 @@ Mapple Employee Performance & Payroll Management Analytics
 
 An Advanced Excel analytics project analyzing 2,000 employee records to evaluate workforce productivity, compensation structure, demographic distribution, and regional payroll allocation across three corporate locations.
 
-📁 Repository Contents
+ Repository Contents
 File	Description
 ADV_EXCEL_PROJET-1_Final.xlsx	The full Excel workbook — raw dataset, Pivot Tables, Pivot Charts, slicers, and the interactive dashboard
 Mapple_Employee_Performance_Payroll_Dashboard.pptx	15-slide presentation deck summarizing the project for a stakeholder walkthrough
@@ -11,6 +11,7 @@ Workbook structure
 Employe_Performance_dataset — cleaned raw data (2,000 records, 12 attributes)
 DASHBOARD / DASHBOARD1 — KPI scorecards, pivot charts, and interactive slicers (Location, Department, Status, Session, Gender, Year)
 Supporting sheets for pivot calculations and slicer connections
+![img alt](https://github.com/adarpitadhar13-DA/Employee-Performance-and-Payroll-Management-Analytics/blob/a53f139bb04806f30bf26bb230ddf3829c7fd315/First.png)
 📊 Project Objective
 
 To build a data-driven analytics framework that evaluates:
