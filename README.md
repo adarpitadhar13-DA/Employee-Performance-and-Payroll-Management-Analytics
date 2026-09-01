@@ -31,6 +31,8 @@ Compensation disconnect — no clear link between experience, age, and pay
 Evaluation tracking gaps — over 50% of performance ratings unrecorded
 Geographic cost variance — unmonitored payroll differences across branches
 Workforce inactivity — nearly 50% of employee records marked inactive
+![img alt](https://github.com/adarpitadhar13-DA/Employee-Performance-and-Payroll-Management-Analytics/blob/0309395263ac74c2b0a18c70fd43b132c6230855/data.png)
+The data is taken from kaggle and then data is cleaned and then we perform opertions and create our dashboard . our data has 12 attributes and based on this attributes we found our key insights and based on this key insights we make our dashboard .
 
  Tools & Techniques
 Formulas: COUNTIF, AVERAGEIFS, SUMIFS, MAX/MIN, XLOOKUP, dynamic matrix formulas
