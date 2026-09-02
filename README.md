@@ -1,8 +1,8 @@
-Mapple Employee Performance & Payroll Management Analytics
+# Mapple Employee Performance & Payroll Management Analytics
 
 An Advanced Excel analytics project analyzing 2,000 employee records to evaluate workforce productivity, compensation structure, demographic distribution, and regional payroll allocation across three corporate locations.
 
- Repository Contents
+# Repository Contents
 File	Description
 ADV_EXCEL_PROJET-1_Final.xlsx	The full Excel workbook — raw dataset, Pivot Tables, Pivot Charts, slicers, and the interactive dashboard
 Mapple_Employee_Performance_Payroll_Dashboard.pptx	15-slide presentation deck summarizing the project for a stakeholder walkthrough
@@ -14,7 +14,7 @@ Supporting sheets for pivot calculations and slicer connections
 ![img alt](https://github.com/adarpitadhar13-DA/Employee-Performance-and-Payroll-Management-Analytics/blob/a53f139bb04806f30bf26bb230ddf3829c7fd315/First.png)
 ![img alt](https://github.com/adarpitadhar13-DA/Employee-Performance-and-Payroll-Management-Analytics/blob/a53dfcd96a82c7eb1b93336ba28a2134271bfa37/Second.png)
 
- Project Objective
+# Project Objective
 
 To build a data-driven analytics framework that evaluates:
 
@@ -23,7 +23,7 @@ Experience-to-salary progression
 Performance appraisal coverage gaps
 Employee retention dynamics across corporate locations (Chicago, Los Angeles, New York)
 
- Problem Statement
+# Problem Statement
 
 Organizations often lack visibility into workforce cost and performance data, leading to:
 
@@ -34,13 +34,13 @@ Workforce inactivity — nearly 50% of employee records marked inactive
 ![img alt](https://github.com/adarpitadhar13-DA/Employee-Performance-and-Payroll-Management-Analytics/blob/0309395263ac74c2b0a18c70fd43b132c6230855/data.png)
 The data is taken from kaggle and then data is cleaned and then we perform opertions and create our dashboard . our data has 12 attributes and based on this attributes we found our key insights and based on this key insights we make our dashboard .
 
- Tools & Techniques
+# Tools & Techniques
 Formulas: COUNTIF, AVERAGEIFS, SUMIFS, MAX/MIN, XLOOKUP, dynamic matrix formulas
 Data Modeling: Dynamic Pivot Tables & Pivot Charts, Timeline Slicers, cross-tabulations
 Power Query: data cleaning, text/date standardization, missing value imputation
 Dashboard Design: KPI scorecards, conditional formatting, color-coded status badges, interactive slicers
 
- Key Findings
+# Key Findings
 Dataset: 2,000 employees · Avg. age 41.25 yrs · Avg. experience 10.27 yrs · Avg. monthly salary $5,971.31
 Highest-paid segment: Los Angeles HR ($6,417.48 avg. salary)
 Lowest-paid segment: New York IT ($5,758.29 avg. salary)
@@ -48,13 +48,13 @@ Flat wage-to-experience curve: minimal pay variance between junior and senior st
 Performance data gap: 1,011 of 2,000 records (50.55%) missing a performance rating
 Balanced operations: headcount evenly spread across shifts (Morning/Evening/Night) and near-50/50 Active/Inactive status
 
- Strategic Recommendations
+ # Strategic Recommendations
 Implement merit-based pay bands tied to experience and performance
 Mandate quarterly performance appraisal tracking to close the rating gap
 Review and realign Los Angeles HR compensation against other regions
 Audit the 993 inactive employee accounts to clean up workforce records
 
- How to Use
+# How to Use
 Download ADV_EXCEL_PROJET-1_Final.xlsx
 Open in Excel (2016 or later recommended for slicer/timeline support)
 Go to the DASHBOARD sheet and use the slicers to filter by Location, Department, Status, Session, Gender, or Year
